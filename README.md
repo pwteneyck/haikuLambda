@@ -16,4 +16,4 @@ This bot responds with:
 -[User]
 
 # Use
-Deploy in a Lambda function behind API Gateway; requires the `Requests` python library in a Lambda layer
+Deploy in a Lambda function behind API Gateway; requires the `Requests` python library in a Lambda layer and a RapidAPI account to use the WordsAPI for syllable counts.
