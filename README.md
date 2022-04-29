@@ -12,4 +12,8 @@ This bot responds with:
 > Nicholas Cage has
 > A new movie... anyone
 > Want to go see it?
+
 -[User]
+
+# Use
+Deploy in a Lambda function behind API Gateway; requires the `Requests` python library in a Lambda layer
