@@ -10,7 +10,9 @@ For example, if someone asks:
 This bot responds with:
 
 > Nicholas Cage has
+> 
 > A new movie... anyone
+> 
 > Want to go see it?
 
 -[User]
